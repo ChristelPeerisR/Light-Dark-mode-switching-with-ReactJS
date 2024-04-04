@@ -20,10 +20,10 @@ Currently, two official plugins are available:
 
 3. Install project dependencies by executing the following command:
 ```
-npm install
-```
-```
 cd path/to/project/folder
+```
+```
+npm install
 ```
 ```
 npm run dev
